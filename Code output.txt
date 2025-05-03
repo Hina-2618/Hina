@@ -1,0 +1,19 @@
+Customer 1 (segment 1)
+Last interest: 	Books
+Recommended: "Atomic Habits", "Deep Work"
+
+Customer 2 (segment 1)
+Last interest: Electronics
+Recommended: Wireless Earbuds, Smartwatch
+
+Customer 3 (segment 0)
+Last interest: Fashion
+Recommended: Denim Jackets, Trendy Sneakers
+
+Customer 4 (segment 1)
+Last interest: Books
+Recommended: "Atomic Habits", "Deep Work"
+
+Customer 5 (segment 0)
+Last interest: Fashion
+Recommended: Denim Jackets, Trendy Sneakers
